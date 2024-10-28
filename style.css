@@ -1,0 +1,96 @@
+.div {
+    background-color: #4831d4;
+    
+    }
+.text{
+    color: #CCF381;
+}
+
+.yo{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.hey{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.div2{
+background-color: #CCF381;
+height: 300px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.div3{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+
+}
+h1{
+    color:#4831d4
+}
+
+.hi{
+color: #CCF381;
+}
+
+.div4{
+background-color: #4831d4;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+
+}
+.hh{
+    color: white;
+}
+
+.div5{
+    background-color: #F9F9F9;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.div6{
+    background-color: white;
+    
+}
+
+.btn{
+    height: 20px;
+    width: 150px;
+    color: #4831d4;
+    display: flex;
+    justify-content: center;
+}
+
+.lastp{
+
+    color: #CCF381;
+}
+
+.lastdiv{
+    background-color: #3d155f;
+    display: flex;
+    flex-direction: column;
+}
+
+.yoo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
